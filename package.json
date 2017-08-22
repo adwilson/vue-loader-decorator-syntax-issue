@@ -1,0 +1,22 @@
+{
+  "name": "ComponentNotSupported",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wp": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.5",
+    "ts-loader": "^2.3.3",
+    "typescript": "^2.4.2",
+    "vue": "^2.4.2",
+    "vue-class-component": "^5.0.2",
+    "vue-loader": "^13.0.4",
+    "vue-template-compiler": "^2.4.2",
+    "webpack": "^3.5.5"
+  }
+}
